@@ -1,8 +1,13 @@
 html {
 	background-color: mistyrose;
 }
+
 h1 {
-	color: cornflowerblue;
+	color: tomato;
 	font-family: "Lucida Console";
 	font-style: italic;
+}
+
+li {
+	color: tomato;
 }
